@@ -27,7 +27,7 @@ A Chrome extension that analyzes the current tab, finds related prediction marke
 
 ### Option 1: Download CRX (Recommended)
 
-1. Download `world-opinion.crx` from the [latest release](https://github.com/DavyMorgan/world-opinion/releases/latest)
+1. Download `world-opinion.crx` from the [latest release](https://github.com/y3zai/world-opinion/releases/latest)
 2. Open Chrome and navigate to `chrome://extensions/`
 3. Enable "Developer mode" (toggle in the top right)
 4. Drag and drop the `.crx` file onto the page
@@ -36,7 +36,7 @@ A Chrome extension that analyzes the current tab, finds related prediction marke
 
 1. Clone or download this repository
    ```bash
-   git clone https://github.com/DavyMorgan/world-opinion.git
+   git clone https://github.com/y3zai/world-opinion.git
    cd world-opinion
    ```
 2. Open Chrome and navigate to `chrome://extensions/`
